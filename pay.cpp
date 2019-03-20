@@ -2,8 +2,8 @@
 #include <string>
 #include <fstream>
 #include <vector>
-#include "person.h"
-//#include "person.cpp"
+//#include "person.h"
+#include "person.cpp"
 
 using namespace std;
 
